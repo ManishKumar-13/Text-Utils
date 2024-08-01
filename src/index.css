@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url("https://st5.depositphotos.com/48430940/65011/i/450/depositphotos_650118306-stock-photo-two-tone-blue-white-paper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
